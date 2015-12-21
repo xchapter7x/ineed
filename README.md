@@ -1,5 +1,7 @@
 #I Need
 
+## easily give your structs and constructors what they need
+
 ### Written because:
 * all i need is a clean way to invert control
 * i want to keep as close to idiomatic go struct initialization as possible
