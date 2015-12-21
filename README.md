@@ -2,6 +2,9 @@
 
 ## easily give your structs and constructors what they need
 
+[![wercker status](https://app.wercker.com/status/92296b904aa18774452c79ab3c3c295d/s/master "wercker status")](https://app.wercker.com/project/bykey/92296b904aa18774452c79ab3c3c295d)
+[![Coverage Status](https://coveralls.io/repos/xchapter7x/ineed/badge.svg?branch=master&service=github)](https://coveralls.io/github/xchapter7x/ineed?branch=master)
+
 ### Written because:
 * all i need is a clean way to invert control
 * i want to keep as close to idiomatic go struct initialization as possible
