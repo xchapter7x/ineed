@@ -2,8 +2,10 @@
 
 ### Written because:
 * all i need is a clean way to invert control
-* I dont want DI
-* I dont want be required to have a 'New' constructor functions in my packages with 100 arguments
+* i want to keep as close to idiomatic go struct initialization as possible
+* i dont want struct element tags (thats way too much like annotations for me)
+* I dont want a over the top DI framework
+* I dont want be required to have a 100 argument 'New' constructor functions in my packages
 * I want to just be able to pass in fakes or real objects to initialize my structs with
 
 ### Examples:
